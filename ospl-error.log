@@ -1,0 +1,2536 @@
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:34 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745454.132813944
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:34 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745454.232927251
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:34 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745454.333064873
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:34 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745454.533227281
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:55 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745475.034319282
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:55 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745475.039365155
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:56 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745476.175271152
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.337957012
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.338013599
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.338413307
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.338454087
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.338584654
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : xmit.user 7f4ed3845700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.338615369
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.340077152
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.438197327
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.438498803
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.438720643
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.538256749
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.538579522
+========================================================================================
+Report      : ERROR
+Date        : Wed Dec 14 17:57:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <19626>
+Thread      : tev 7f4ed38ab700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481745477.538840390
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:20 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825780.378440407
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:20 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825780.478483146
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:20 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825780.578579422
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:20 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825780.778660980
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:45 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825805.235423003
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:45 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825805.237301897
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:45 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825805.237333078
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:46 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825806.425829748
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.077296828
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.077354458
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.078047113
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.078082477
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.078506644
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : xmit.user 7f57cf27f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.078535312
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.078602963
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.178262135
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.178594505
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.277434933
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.278406002
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.278687085
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 16:16:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25840>
+Thread      : tev 7f57cf2e5700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481825807.377522735
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:05 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : xmit.user 7efd32a92700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838305.688898394
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:05 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838305.788982020
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:05 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838305.889038101
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:06 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838306.089105469
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838310.891251560
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838312.075892512
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838340.891605733
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:45:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838342.076095572
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:46:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838370.891802735
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:46:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838372.076799390
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:46:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838400.891881188
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:46:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838402.077396002
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:47:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838430.892178642
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:47:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838432.077612661
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:47:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838460.892347382
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:47:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838462.077905381
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:48:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838490.892429425
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:48:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838492.078073912
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:48:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838520.892542215
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:48:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838522.078319578
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:49:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838550.892930251
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:49:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838552.078487298
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:49:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838580.893272470
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:49:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838582.078903944
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:50:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838610.893461334
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:50:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838612.079071182
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:50:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838640.893821161
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:50:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838642.079562622
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:51:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838670.894315381
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:51:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838672.079620633
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:51:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838700.894384952
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:51:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838702.079899062
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:52:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838730.894479695
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:52:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838732.080281122
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:52:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838760.894868383
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:52:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838762.080431767
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:53:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838790.894960425
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:53:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838792.080562478
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:53:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838820.895307915
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:53:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838822.080691537
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:54:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838850.895905651
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:54:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838852.081203053
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:54:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838880.895888469
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:54:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838882.081565202
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:55:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838910.896288999
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:55:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838912.081913621
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:55:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838940.896445545
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:55:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838942.082190202
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:56:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838970.896811233
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:56:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481838972.082300766
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:56:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839000.897000278
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:56:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839002.082630417
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:57:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839030.897137206
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:57:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839032.084004971
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:57:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839060.897272371
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:57:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839062.084188712
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:58:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839090.897669431
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:58:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839092.084658451
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:58:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839120.897817377
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:58:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839122.084966118
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:59:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839150.898179232
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:59:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839152.085292095
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:59:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839180.898487672
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 19:59:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839182.085771675
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:00:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839210.898633840
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:00:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839212.085895511
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:00:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839240.898961241
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:00:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839242.086133314
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:01:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839270.899056909
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:01:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839272.086183148
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:01:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839300.899783056
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:01:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839302.086319720
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:02:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839330.900258478
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:02:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839332.086393007
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:02:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839360.900444220
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:02:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839362.086750108
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:03:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839390.900585059
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:03:12 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839392.087233588
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:03:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839420.900992825
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:03:42 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839422.087905096
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 20:04:07 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <3076>
+Thread      : tev 7efd32ae7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481839447.377703438
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:32 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : xmit.user 7f31c9c3a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844692.691759734
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:32 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844692.791890418
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:32 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844692.891996245
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:33 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844693.092535499
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:33 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844693.492647311
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:33 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : xmit.user 7f31c9c3a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844693.692132065
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844718.069743074
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844718.071730066
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:31:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844719.258649183
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:32:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844748.070001650
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:32:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844748.071861528
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:32:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844749.258787663
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:32:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844778.070396871
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:32:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844778.072018314
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:32:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844779.259251537
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:33:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844808.071547354
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:33:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844808.072052034
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:33:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844809.259643795
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:33:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844838.072049742
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:33:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844838.072200744
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:33:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844839.259742423
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:34:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844868.072409595
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:34:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844869.259946590
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:34:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844898.073566091
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:34:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844899.260118941
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:35:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844928.074167065
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:35:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844929.260455359
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:35:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844958.074267838
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:35:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844959.261285919
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:36:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844988.074456951
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:36:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481844989.261737672
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:36:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845018.074775138
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:36:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845019.262103687
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:37:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845048.075724488
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:37:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845049.262358333
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:37:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845078.076163001
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:37:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845079.262430939
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:38:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845108.076314110
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:38:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845109.263362867
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:38:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845138.076969927
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:38:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845139.263485191
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:39:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845168.077303090
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:39:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845169.265071628
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:39:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845198.077742432
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:39:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845199.265191271
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:40:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845228.078086255
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:40:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845229.265443955
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:40:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845258.078251558
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:40:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845259.265717600
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:41:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845288.078667698
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:41:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845289.266080830
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:41:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845318.079418698
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:41:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845319.266462253
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:42:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845348.079881808
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:42:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845349.266798913
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:42:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845378.080326633
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:42:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845379.267101342
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:43:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845408.080605759
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:43:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845409.267215601
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:43:58 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845438.081220792
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:43:59 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845439.267451392
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:44:28 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845468.081511523
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:44:29 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845469.267567842
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:44:38 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <25500>
+Thread      : tev 7f31c9ca0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481845478.665086779
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:59:56 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : xmit.user 7f4c623f6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846396.397915358
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:59:56 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : xmit.user 7f4c623f6700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846396.694838318
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:59:56 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846396.794994266
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:59:56 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846396.895022225
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:59:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846397.095130821
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 21:59:57 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846397.495204959
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:00:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846410.253076081
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:00:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846411.403284647
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:00:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846440.253469012
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:00:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846441.403444329
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:01:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846470.253628761
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:01:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846471.404094937
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:01:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846500.254131869
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:01:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846501.404997668
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:02:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846530.254352339
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:02:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846531.405244087
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:02:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846560.254749474
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:02:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846561.406017599
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:03:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846590.254881578
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:03:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846591.406188325
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:03:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846620.255077958
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:03:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846621.406384423
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:04:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846650.255683898
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:04:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846651.407189504
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:04:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846680.256021508
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:04:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846681.409619535
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:05:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846710.256147760
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:05:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846711.409699548
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:05:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846740.256392613
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:05:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846741.409943688
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:06:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846770.257169131
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:06:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846771.410115928
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:06:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846800.257481142
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:06:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846801.410333726
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:07:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846830.257829828
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:07:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846831.410841682
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:07:40 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846860.257938678
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:07:41 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846861.410990877
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:08:10 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846890.258060609
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:08:11 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846891.411428793
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:08:15 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <28862>
+Thread      : tev 7f4c6245c700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481846895.154739870
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:38 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : xmit.user 7f215ad33700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848178.949793943
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : xmit.user 7f215ad33700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848179.435365443
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848179.535524010
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848179.635659952
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848179.835899182
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:46 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848186.763774055
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:29:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848187.878206436
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:30:16 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848216.763869030
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:30:17 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848217.878233892
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:30:46 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848246.764105887
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:30:47 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848247.878425603
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:31:06 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <1271>
+Thread      : tev 7f215ad99700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481848266.697163946
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:56:14 BRST 2016
+Description : Splice-daemon failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 57.740583603 s.
+Node        : ubuntu
+Process     : java <6293>
+Thread      : OSPL Lease Renew Thread 7f78f770a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/spliced.c/153/0/1481849774.191060719
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 22:56:14 BRST 2016
+Description : Durability failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 57.740928883 s.
+Node        : ubuntu
+Process     : java <6293>
+Thread      : leaseThread 7f78f7448700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/Durability Service/d_durability.c/182/0/1481849774.308557895
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:21 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890101.261415443
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:21 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890101.362124589
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:21 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890101.462209508
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:21 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890101.662297243
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:38 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890118.275828614
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:38 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890118.277924708
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.464640531
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.663551703
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.663665817
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.663683297
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.663702547
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.664336962
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : xmit.user 7f149b4e1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.664368155
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 10:08:39 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <20792>
+Thread      : tev 7f149b569700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481890119.664540192
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:13 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : xmit.user 7f7e2c541700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917633.593478554
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:13 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917633.694007009
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:13 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917633.794645281
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:13 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917633.994812828
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917634.394808882
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917634.427206522
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917634.430386398
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : xmit.user 7f7e2c541700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917634.480458970
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : xmit.user 7f7e2c541700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917634.593534535
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917634.693789938
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:15 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917635.619570084
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:44 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917664.427767558
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:44 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917664.430552397
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:47:45 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917665.619867728
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:48:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917694.428309950
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:48:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917694.430867493
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:48:15 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917695.620476225
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:48:44 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917724.428586281
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:48:44 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917724.430984167
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:48:45 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917725.620802557
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:49:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917754.428595709
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:49:14 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917754.431340557
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:49:15 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917755.620859581
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:49:44 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917784.428981079
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:49:44 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917784.431463590
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:49:45 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917785.621046085
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 17:50:03 BRST 2016
+Description : ddsi_conn_write failed -1
+
+Node        : ubuntu
+Process     : java <9951>
+Thread      : tev 7f7e2c5a7700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1481917803.022931571
